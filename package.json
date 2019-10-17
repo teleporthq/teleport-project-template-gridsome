@@ -1,0 +1,15 @@
+{
+  "name": "teleport-project-template-gridsome",
+  "version": "0.1.0",
+  "description": "A simple starter to get up and developing quickly with Gridsome",
+  "author": "teleportHQ",
+  "private": true,
+  "scripts": {
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "build": "gridsome build"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0"
+  }
+}
